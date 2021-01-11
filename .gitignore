@@ -104,4 +104,4 @@ dist
 .tern-port
 
 # Mongo Keys
-config/keys.js
+config
